@@ -1,6 +1,6 @@
-<center> 
-![logo](./docs/conduit.png)
-</center>
+ 
+![conduit logo](docs/conduit.png?raw=true)
+
 
 # Conduit
 
